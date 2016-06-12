@@ -1,0 +1,28 @@
+﻿
+<div>
+    <h1>My Profile</h1>
+</div>
+<body>
+    <div class="container" id="profile" ng ng-controller="UsersController">
+        <p>{{User.UserName}}</p>
+        <p>{{User.FirstName}}</p>
+        <p>{{User.LastName}}</p>
+    </div>
+
+    <div class="container" id="friendslist" ng-model="Friend">
+        <table class="table-bordered">
+            <tr>
+                <th>My Friends List</th>
+            </tr>
+
+            <tbody>
+                <tr ng-repeat="friend in list">
+                    <td>{{}}</td>
+                    <td>{{Friend.NickName}}</td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+

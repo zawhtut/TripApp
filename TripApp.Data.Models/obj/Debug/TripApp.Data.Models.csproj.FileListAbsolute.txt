@@ -1,0 +1,14 @@
+C:\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.dll.config
+C:\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.dll
+C:\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.pdb
+C:\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.dll
+C:\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.xml
+C:\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.dll
+C:\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.pdb
+C:\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.csprojResolveAssemblyReference.cache
